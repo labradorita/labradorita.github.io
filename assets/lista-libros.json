@@ -1,17 +1,40 @@
-[
+{
+    "libros": [
     {
     "id": 1,
-    "titulo": "Te veré bajo el hielo",
-    "autor": "Robert Bryndza"
+    "titulo": "A corazón abierto",
+    "autor": "Elvira Lindo"
  },
  {
     "id": 2,
-    "titulo": "Dime quién soy",
-    "autor": "Julia Navarro"
+    "titulo": "Un amor",
+    "autor": "Sara Mesa"
  },
  {
     "id": 3,
-    "titulo": "El día que se perdió la cordura",
-    "autor": "Javier Castillo"
- }
- ]
+    "titulo": "Línea de fuego",
+    "autor": "Arturo Pérez-Reverte"
+ },
+ {
+   "id": 4,
+   "titulo": "Casas y tumbas",
+   "autor": "Bernardo Atxaga"
+},
+{
+   "id": 5,
+   "titulo": "La madre de Frankenstein",
+   "autor": "Almudena Grandes"
+},
+{
+   "id": 6,
+   "titulo": "Panza de burro",
+   "autor": "Andrea Abreu"
+},
+{
+   "id": 7,
+   "titulo": "Aquitania",
+   "autor": "Eva García Sáenz de Urturi"
+}
+    ]
+}
+ 
